@@ -1,0 +1,5 @@
+<!-- Ici le configuration du sprint -->
+<sprint>
+    <!-- configuration du url pour il y a des classes a scanner -->
+    <url-classes>/home/judi/Téléchargements/apache-tomcat-10.0.27/webapps/Sprint 3a/WEB-INF/classes/etu1968/framework/servlet/</url-classes>
+</sprint>
